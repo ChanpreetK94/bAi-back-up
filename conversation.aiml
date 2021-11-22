@@ -111,5 +111,209 @@
          <template>I like comedy movies too.</template>
       </category>
    </topic>
+   <category>
+<pattern>HI, THIS IS *</pattern>
+<template>Hello <set name = "username"> <star/> </set>!
+</template>
+</category>
+
+<category>
+<pattern>HII *</pattern>
+<template>Hello <set name = "username"> <star/> </set>!
+</template>
+</category>
+
+<category>
+<pattern>* HOW * PEOPLE * CREAT CHANGE * </pattern>
+<template><random>
+<li>Basically my
+focus is on examining and teaching who we are as
+human beings as we're going through this
+tremendous time of challenges and stress
+and how we can really not just cope with
+these difficult challenges and problems. How can
+we build a better world moving forward?
+My job right now is trying to creating a place
+where everyone feels they belong
+where everyone accepts each other
+has a respect for each other and uh
+treats each other with value.</li>
+<li> Have a look on this article https://www.pps.org/article/diversityinpublicspaces </li>
+</random> </template>
+</category>
+
+<category>
+<pattern>* TELL ME ABOUT YOURSELF  *</pattern>
+<template>Hello! <set name ="username"><star/>!</set>I'm Beenova Mentor and I'm your Diversity and Inclusion Mentor. I arrived at being
+    as the Mentor of diversity and Inclusion
+    which is really a role about
+    creating equity and creating inclusive
+    spaces
+    where people are accepted and
+    are able to reach their full potential
+    and soar.
+    And in this instance it's looking at
+    this piece
+    in terms of students so young people
+    staff the workplace and faculty
+    our academics who are really working to
+    give our young people the knowledge and
+    skills they need to be able to function
+    well in the workforce which is what your
+    folks deal with so
+    all of these pieces along the way have
+    fit in very well because the bottom line
+    is it's been about
+    trying to help build supports for people
+    facing challenges in their lives
+    and ultimately in the end that comes
+    down to doing that
+    equitably. It's not about
+    fairness for this person but
+    it's about
+    building those supports and foundations
+    so everyone
+    can really soar and and be successful.
+    And that's
+    so important, I think in the business
+    world, and in the works.
+    Workplace is building that equity and
+    fairness into things and so that's what
+    i'm doing as a Mentor. I'm working on building those pathways
+    so that students can really get down to
+    learning
+    as opposed to worrying about whether or
+    not somebody hears their voice or cares
+    about what they have to say
+    all voices count what everyone says
+    is part of who we are
+    as a human family and we can't grow
+    together and soar.
+    If we leave people out it's just
+    we won't be competitive in
+    in the business world we won't be
+    competitive as a country
+    and we won't really be successful as
+    human beings,
+    if we neglect that very valuable piece
+    about how we get along with each other</template>
+</category>
+
+<category>
+        <pattern> * TELL ME SOMETHING ABOUT DIVERSITY AND INCLUSION * </pattern>
+        <template>
+            <random>
+                <li>Sure, that's what I am trained on! Let's being with a short introduction https://www.youtube.com/watch?v=tETTSgS4ZpE
+                </li>
+                <li>Sure, that's what I am trained on! Let's being with a short introduction https://www.youtube.com/watch?v=0ISsSwxn8NY
+                </li>
+            </random>
+        </template>
+</category>
+
+<category>
+<pattern>* BEGIN CONVERSATION * COLLEAGUES * BRING * CHANGE *</pattern>
+
+<template>
+I imagine there are probably also people who,
+because these conversations are tough and uncomfortable,
+think maybe it's easier or better to just avoid having to do that
+and to have those conversations and discussions
+to stir the pot in some ways.
+And so what do you say to the people
+who think "Let's just try to lay low,"
+and I've heard some of this, too, at this moment, "Let the moment pass
+so that we can get back to business as usual". Yeah. Well, I'd first start by saying how disgusted I am
+by that statement,
+because leaders lead at the moment,
+and you never know when you're going to be called upon.
+And if this isn't a calling,
+I don't know what is.
+And so when I get that call and say,
+"You know, I just think I should take the back seat
+and just kind of let this brew here and that calm down,"
+you know, we need to all -- it's an all-in moment.
+And leadership is not designated by your title.
+It's designated about how great you can create followership.
+And having thought leadership,
+people underestimate the opportunity
+to pick up the phone and call someone, and say, "How are you?
+How is this affecting you? How can I help?"
+That's pretty simple.
+You might decide it's something I can't help with,
+but you'd better darn sure pick up the phone
+and start feeling out the environment
+in your employee base, in your peers, in your leaders,
+because the time is now, and so I don't give them an out.
+I try and push them over the edge,
+because sometimes they are just kind of stuck, like, "What do I do?"
+And then the other thing that I have to do
+is to make sure that they understand
+that because I am at this level where I am,
+I'm not excluded from these issues, right?
+I know that when my husband jumps in his vehicle,
+I worry every time if he's out in the evening
+that he may not come back home the same way he left.
+I feel that way for my son and my husband.
+I still get, even when I go shopping,
+I still get the look, am I stealing,
+watching me as I walk around the corner.
+And I don't know what else or how else I can look or act any different,
+so I just act like myself.
+I used to get dressed to go shopping.
+Now I never do that.
+If I'm spending my money, my money spends everywhere,
+and if I get that feeling that you're going to race me around the store,
+then I'm going to leave, and that's your loss.
+But I still get that, and so I worry.
+So I also try to help people understand that this is not a socioeconomic,
+once you've sort of "made it," you're out of the water.
+No.
+We're still, as someone with differences, visible differences, you're still at risk.
+Here, is a video trying to tell that How to get serious about diversity and Inclusion at workplace https://youtu.be/kvdHqS3ryw0 </template>
+</category>
+
+<category>
+<pattern>* UNCONSCIOUSLY * BIASING *</pattern>
+<template> Take a look at this Video https://youtu.be/kvdHqS3ryw0
+</template>
+</category>
+
+<category>
+<pattern>* CULTURAL * DIVERSE ENVIRONMENT *</pattern>
+<template> I have a link of an article for you providing information on cultural importance for the Diverse Environment https://nrev.jp/2020/01/09/cq-tao-to-intelligent-perspective/</template>
+</category>
+
+<category>
+<pattern>* CULTURE * DIVERSE ENVIRONMENT *</pattern>
+<template>I have a link of an article for you providing information on cultural importance for the Diverse Environment https://nrev.jp/2020/01/09/cq-tao-to-intelligent-perspective/</template>
+</category>
+
+<category>
+<pattern>* HOW DO YOU FEEL ABOUT DIVERSITY AND INCLUSION *</pattern>
+<template>It's early days.
+I'm hopeful.
+I feel good about the conversations that are happening.
+I'm seeing a change in people thinking more about themselve as well as others.
+And so I feel like we can't let this moment leave us,
+and what we're learning about it.
+I think what I'm optimistic about
+is that now I think more people will understand
+that the less diverse and less inclusive we are,
+it's more than a business imperative.
+When we combine the pandemic
+and we see the inequities of a pandemic
+on a diverse community,
+and we talk about how that happens,
+how people are underrepresented in health care,
+underrepresented in their housing,
+they can see that this is a groundswell moment.
+And the more we realize that and talk about that complexity,
+then the solutions begin to happen.
+And I think that's happening more and more,
+so I'm optimistic about that,
+because we're looking at the ills of lack of diversity and inclusion,
+and maybe looking at much broader solutions for it
+then what we have in the past.</template></category>
 
 </aiml>
